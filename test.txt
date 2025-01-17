@@ -1,3 +1,0 @@
-mango,banana
-pawpaw,carrot
-orange,yam
